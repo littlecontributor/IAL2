@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# Modeles et donnees locales (peuvent etre volumineux ou personnels)
+models/
+outputs/
+sounds/
+chroma_db/
+
+# Secrets et configuration locale des agents
+.env
+.env.local
+.env.*.local
+.qwen/settings.json
+
+# Logs et traces locales
+*.log
+.DS_Store
+Thumbs.db

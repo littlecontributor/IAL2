@@ -1,0 +1,2 @@
+# Placez ici les dépendances nécessaires à l'application.
+# Tkinter est inclus avec la plupart des distributions Python Windows.

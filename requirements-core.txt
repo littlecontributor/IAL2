@@ -1,0 +1,12 @@
+# IA Locale — dépendances minimales de l'interface et de la connexion Ollama
+# Les modules voix, RAG et génération d'images sont installés séparément.
+
+gradio>=4.44.0,<6.0.0
+gradio_client>=1.3.0
+ollama>=0.4.0
+PyYAML>=6.0.1
+psutil>=5.9.0
+requests>=2.31.0
+python-multipart>=0.0.9
+numpy>=1.26.0,<3.0.0
+Pillow>=10.0.0
